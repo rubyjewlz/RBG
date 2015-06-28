@@ -1,6 +1,6 @@
 body {
 	font-family: 'Sigmar One';
-	background-image: url("rbg_graph-01.png");
+	background-image: url("rbg_graph-01.jpg");
  	background-size: cover;
 	margin: 0px;
 }
@@ -30,4 +30,7 @@ li {
 	padding: 10px;
 	font-size: 30px;
 
+}
+img {
+	width: 50%;
 }
