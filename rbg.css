@@ -1,0 +1,33 @@
+body {
+	font-family: 'Sigmar One';
+	background-image: url("rbg_graph-01.png");
+ 	background-size: cover;
+	margin: 0px;
+}
+
+h1 {
+	color: #FFFFFF;
+	margin: 0px;
+	font-size: 110px;
+	padding: 0px;
+	overflow: hidden;
+	white-space: nowrap;
+	
+}
+
+#header {
+	background-color: #000000;
+    margin: 0px;
+    min-height: 200px;
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+}
+li {
+	color: #FFFFFF;
+	display: inline;
+	padding: 10px;
+	font-size: 30px;
+
+}
