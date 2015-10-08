@@ -1,8 +1,7 @@
 $(document).ready(function(){
-  $('.box').mouseenter(function() {
-  $( this ).fadeOut();
-});  
-  $('.box').mouseleave(function() {
-  	$( this ).fadeIn();
-  });
+  $('.box').hover(
+    // function() { $(this).fadeIn(); },
+    function() { $(this).fadeOut(); console.log( "You clicked a paragraph!" );}
+);
+ 
 });
